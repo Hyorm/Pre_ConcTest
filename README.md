@@ -13,14 +13,12 @@
 
 
 
-Contact:
+Contact:<br>
 
-gunho19945@gmail.com 
-
-  https://gunho1995.github.io/ 
+gunho19945@gmail.com <br>
+  https://gunho1995.github.io/ <br><br>
   
-hyorm1226@gmail.com 
-
+hyorm1226@gmail.com <br>
   github.com/hyorm
   
 
