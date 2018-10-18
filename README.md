@@ -16,9 +16,9 @@
 Contact:<br>
 
 gunho19945@gmail.com <br>
-  https://gunho1995.github.io/ <br><br>
+  <p>https://gunho1995.github.io/ <br><br></p>
   
 hyorm1226@gmail.com <br>
-  github.com/hyorm
+  <p>github.com/hyorm</p>
   
 
