@@ -14,8 +14,13 @@
 
 
 Contact:
-gunho19945@gmail.com
-  https://gunho1995.github.io/
+
+gunho19945@gmail.com 
+
+  https://gunho1995.github.io/ 
+  
 hyorm1226@gmail.com 
+
   github.com/hyorm
+  
 
