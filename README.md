@@ -9,3 +9,13 @@
 
 ![Alt text](/image/readme/figure2.jpeg)
 >>> figure 2.TODO
+
+
+
+
+Contact:
+gunho19945@gmail.com
+  https://gunho1995.github.io/
+hyorm1226@gmail.com 
+  github.com/hyorm
+
